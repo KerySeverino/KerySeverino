@@ -6,7 +6,7 @@
 
 
 <p> Email: KerySeverino@gmail.com </p>
-<p> My Website: https://www.TechCatDiaries.com </p>
+<p> My Website: https://www.kersevdiaz.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

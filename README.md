@@ -1,6 +1,6 @@
 <h4> Welcome to my profile! </h4>
 
-<p> Hello, I'm Kery. My passion is to create a positive impact on people’s lives. Whether it's through volunteering, mentoring, or extending a helping hand, I find immense joy from supporting others. My ultimate aspiration/dream is to become a Software or AI engineer, leveraging technology to make a profound and meaningful difference in the world. </p>
+<p> Hello, I'm Kery. My passion is to create a positive impact on people’s lives. Whether it's through volunteering, mentoring, or extending a helping hand, I find immense joy from supporting others. My ultimate aspiration/dream is to become a AI / ML engineer, leveraging technology to make a profound and meaningful difference in the world. </p>
 
 <h5>CS Honors Graduate from Lehman College with a Bachelor of Science in Computer Science</h5>
 

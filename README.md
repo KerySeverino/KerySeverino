@@ -101,14 +101,6 @@ Bachelor of Science in Computer Science
 
 ---
 
-### GitHub Trophies 🏆
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KerySeverino&theme=dracula&column=3&margin-w=15&margin-h=15" width="700"/>
-</p>
-
----
-
 ### Contribution Graph 📈 
 
 <p align="center">

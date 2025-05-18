@@ -60,6 +60,7 @@ ___
             <td align="center"><img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50"/></td>
             <td align="center"><img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="50"/></td>
             <td align="center"><img src="https://img.icons8.com/?size=100&id=XcSgtbIpgK6W&format=png&color=000000" alt="Keras" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000" alt="Google Colab" width="50"/></td>
           </tr>
         </table>
       </td>

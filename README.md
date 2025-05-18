@@ -20,55 +20,52 @@ Bachelor of Science in Computer Science
 - **Email:** [KerySeverino@gmail.com](mailto:KerySeverino@gmail.com)  
 - **Website:** [https://www.kersevdiaz.com](https://www.kersevdiaz.com)
 
----
 
-### Connect with me 🌐 
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/kery-severino-diaz-ba21bb281" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kery.severino" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@TechCatDiaries/videos" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" />
-  </a>
-</p>
-
----
+___
 
 ### Languages and Tools 🛠️
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <!-- Left: GitHub Top Languages -->
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerySeverino&layout=compact&theme=tokyonight" width="300"/>
+      </td>
+      <!-- Right: Icon Grid -->
+      <td valign="top">
+        <table>
+          <tr>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" width="50"/></td>
+            <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50"/></td>
+            <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="Seaborn" width="50"/></td>
+            <td align="center"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="50"/></td>
+            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"/></td>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50"/></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000" alt="Tableau" width="50"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgrestSQL"width="50"/></td>
+            <td align="center"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="Amazon AWS" width="50"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS code" width="50"/></td>
+          </tr>
+          <tr>
+            <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=62856&format=png&color=000000" alt="github" width="50"/></td>
+            <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000" alt="R" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" alt="PowerBI" width="50"/></td>
+            <td align="center"><img src="https://img.icons8.com/?size=100&id=XcSgtbIpgK6W&format=png&color=000000" alt="Keras" width="50"/></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -76,23 +73,17 @@ Bachelor of Science in Computer Science
 
 
 <div align="center">
-
-<!-- 2x2: Key Metrics -->
+<!-- 1x3: Key Metrics -->
 <table>
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=KerySeverino&show_icons=true&theme=tokyonight&count_private=true" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerySeverino&layout=compact&theme=tokyonight" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=KerySeverino&theme=tokyonight" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KerySeverino&show_icons=true&include_all_commits=true&count_private=true&custom_title=Public%20Repo%20Contributions&hide=stars,prs,issues&theme=tokyonight" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=KerySeverino&show_icons=true&include_all_commits=true&count_private=true&custom_title=Public%20Repo%20Contributions&hide=stars,prs,issues&theme=tokyonight" width="500"/>
     </td>
   </tr>
 </table>
